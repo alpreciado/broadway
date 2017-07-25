@@ -1,0 +1,38 @@
+html {
+  font-family:Helvetica;
+}
+body {
+  text-align: center;
+}
+p {
+
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
+}
+footer {
+    font-size: 11px;
+    background-color: dimgray;
+    color: white;
+  }
+footer p {
+  display: inline-block;
+}
+footer li {
+  display: inline-block;
+}
+ul {
+  list-style-type: none;
+  }
